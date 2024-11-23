@@ -3,7 +3,7 @@ We're a software studio focused on building novel ways to deliver intelligent ex
 
 We open source tools we build along the way and work with the community to push things forward. If you're building something interesting, we'd love to chat.
 
-[🌐 hack.dance](https://hack.dance) • [𝕏 @dimitrikennedy]((https://twitter.com/dimitrikennedy))
+[🌐 hack.dance](https://hack.dance) • [𝕏 @dimitrikennedy](https://twitter.com/dimitrikennedy)
 
 ## Open Source
 - [instructor-js](https://github.com/instructor-ai/instructor-js) - Structured extraction in TypeScript. Built for LLMs, designed for simplicity and control
