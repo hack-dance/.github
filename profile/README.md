@@ -1,6 +1,3 @@
-[🌐 hack.dance](https://hack.dance) • [𝕏 @dimitrikennedy](https://twitter.com/dimitrikennedy)
-
-## Open Source
 - [hack](https://github.com/hack-dance/hack) - Opinionated local dev orchestration
 - [instructor-js](https://github.com/instructor-ai/instructor-js) - Structured extraction in TypeScript. Built for LLMs, designed for simplicity and control
 - [schema-stream](https://github.com/hack-dance/island-ai/tree/main/public-packages/schemaStream) - JSON parser that delivers safe-to-use partial results based on your schema
@@ -10,7 +7,8 @@
 - [evalz](https://github.com/hack-dance/island-ai/tree/main/public-packages/evalz) - Model-graded evals in TypeScript
 - [next-assistants](https://github.com/hack-dance/assistants) - Quick OpenAI assistants setup for Next.js
 
-## Get In Touch
-Building something interesting? → dimitri@hack.dance
+### Get In Touch
+[🌐 hack.dance](https://hack.dance) • [𝕏 @dimitrikennedy](https://twitter.com/dimitrikennedy)
 
+Building something interesting? → dimitri@hack.dance
 Want to contribute? Our repos are open for business.
