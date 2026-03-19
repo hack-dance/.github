@@ -11,9 +11,11 @@ We build AI systems, developer tools, and supporting open source infrastructure.
 - [aisx](https://github.com/hack-dance/aisx) - JSX templating for structured strings and LLM prompts in TypeScript.
 - [island-ai](https://github.com/hack-dance/island-ai) - Toolkit for structured, streaming LLM systems and UI.
 - [schema-stream](https://github.com/hack-dance/schema-stream) - Schema-validated JSON stream parsing with safe partial output.
+- [zod-stream](https://github.com/hack-dance/island-ai/tree/main/public-packages/zod-stream) - Define structured streaming LLM responses with Zod.
 - [assistants](https://github.com/hack-dance/assistants) - Next.js starter for OpenAI assistants and chat products.
 - [codex-bridge](https://github.com/hack-dance/codex-bridge) - Bring Codex-style workflows into other systems.
 - [homebrew-tap](https://github.com/hack-dance/homebrew-tap) - Homebrew tap for `fclt` and other hack-dance CLI tools.
+- [instructor-js](https://github.com/567-labs/instructor-js) - Structured extraction for LLMs in TypeScript.
 
 ### Contact
 
