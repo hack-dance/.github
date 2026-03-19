@@ -17,6 +17,6 @@ Small team, big impact. We build AI systems, developer tools, and supporting ope
 
 ### Contact
 
-[hack.dance](https://hack.dance) • [@dimitrikennedy](https://x.com/dimitrikennedy)
+[hack.dance](https://hack.dance) • [@dimitrikennedy](https://x.com/dimitrikennedy) • [github.com/roodboi](https://github.com/roodboi)
 
 Building something interesting? Email dimitri@hack.dance.
