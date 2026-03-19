@@ -1,20 +1,22 @@
 ## hack.dance
 
-We build developer tools, AI tooling, and some smaller public experiments along the way.
+Hack Dance is an applied AI studio in Boston.
 
-### Featured Projects
+We build AI systems, developer tools, and supporting open source infrastructure. The public work here spans AI operating layers, local development, structured generation and extraction, and streaming interfaces.
 
-- [fclt](https://github.com/hack-dance/fclt) - Build and evolve AI faculties across tools, users, and projects.
-- [hack](https://github.com/hack-dance/hack) - Opinionated local dev orchestration for running multiple projects without port conflicts.
-- [aisx](https://github.com/hack-dance/aisx) - JSX-based templating for generating structured strings and LLM prompts in TypeScript.
-- [island-ai](https://github.com/hack-dance/island-ai) - Island AI.
-- [assistants](https://github.com/hack-dance/assistants) - Fast Next.js setup for OpenAI assistants and chat products.
-- [codex-bridge](https://github.com/hack-dance/codex-bridge) - Bridge Codex-style workflows into other systems.
-- [schema-stream](https://github.com/hack-dance/schema-stream) - Schema-validated JSON stream parsing with safe partial results.
+### Public Projects
+
+- [fclt](https://github.com/hack-dance/fclt) - Build, sync, and evolve AI faculties across tools and projects.
+- [hack](https://github.com/hack-dance/hack) - Run multiple local projects without port collisions.
+- [aisx](https://github.com/hack-dance/aisx) - JSX templating for structured strings and LLM prompts in TypeScript.
+- [island-ai](https://github.com/hack-dance/island-ai) - Toolkit for structured, streaming LLM systems and UI.
+- [schema-stream](https://github.com/hack-dance/schema-stream) - Schema-validated JSON stream parsing with safe partial output.
+- [assistants](https://github.com/hack-dance/assistants) - Next.js starter for OpenAI assistants and chat products.
+- [codex-bridge](https://github.com/hack-dance/codex-bridge) - Bring Codex-style workflows into other systems.
 - [homebrew-tap](https://github.com/hack-dance/homebrew-tap) - Homebrew tap for `fclt` and other hack-dance CLI tools.
 
-### Get In Touch
+### Contact
 
 [hack.dance](https://hack.dance) • [@dimitrikennedy](https://x.com/dimitrikennedy)
 
-Building something interesting? → dimitri@hack.dance
+Building something interesting? Email dimitri@hack.dance.
