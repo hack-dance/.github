@@ -1,8 +1,8 @@
 ## hack.dance
 
-Hack Dance is an applied AI studio.
+Hack Dance designs and builds AI products and systems for messy, high-context work. Most of it sits somewhere between ambiguous information, real users, and decisions that matter.
 
-Small team, big impact. We build AI systems, developer tools, and supporting open source infrastructure. The public work here spans AI operating layers, local development, structured generation and extraction, and streaming interfaces.
+We work with a small number of clients at a time, usually on projects that need close collaboration, technical depth, and a tolerance for ambiguity.
 
 ### Public Projects
 
