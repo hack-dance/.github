@@ -1,8 +1,8 @@
 ## hack.dance
 
-Hack Dance is an applied AI studio in Boston.
+Hack Dance is an applied AI studio.
 
-We build AI systems, developer tools, and supporting open source infrastructure. The public work here spans AI operating layers, local development, structured generation and extraction, and streaming interfaces.
+Small team, big impact. We build AI systems, developer tools, and supporting open source infrastructure. The public work here spans AI operating layers, local development, structured generation and extraction, and streaming interfaces.
 
 ### Public Projects
 
